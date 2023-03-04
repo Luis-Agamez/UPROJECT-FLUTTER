@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "279184823898",
+    "project_id": "project-notify-e8d96",
+    "storage_bucket": "project-notify-e8d96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279184823898:android:082552989e9fd9dd0b2a63",
+        "android_client_info": {
+          "package_name": "com.propassandroid.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279184823898-fcg2db2l2n1kj66ud5vienj3to9mu83i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.propassandroid.proyecto",
+            "certificate_hash": "b212bcb00891348e4da6823264b4b23a2a7ef975"
+          }
+        },
+        {
+          "client_id": "279184823898-upqbv1i4lbjlfrnmab1t985labopuqe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCDsk9vHyicAlR9UxGva9ntH2__8dXc5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279184823898-upqbv1i4lbjlfrnmab1t985labopuqe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
